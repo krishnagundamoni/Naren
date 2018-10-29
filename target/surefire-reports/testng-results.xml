@@ -1,0 +1,14 @@
+<testng-results>
+  <reporter-output>
+  </reporter-output>
+  <suite name="org.krishnagroup.HelloWorldTest">
+    <groups>
+    </groups>
+    <test name="Command line test">
+      <class name="org.krishnagroup.HelloWorldTest">
+        <test-method signature="testGetText()" started-at="2018-10-29T17:07:56Z" name="testGetText" finished-at="2018-10-29T17:07:56Z" duration-ms="16" status="PASS">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
